@@ -44,6 +44,6 @@ app.use("/login",LoginRouters);
 app.use("/border",BorderRouter);
 
 
-app.listen(8000,()=>{
+app.listen(5697,()=>{
     console.log("서버열림")
 })
