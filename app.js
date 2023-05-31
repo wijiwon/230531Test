@@ -9,7 +9,7 @@
 // 서버 객체 만들고 대기상태
 
 const express = require("express");
-const session = require("express-sviewession");
+const session = require("express-session");
 const dot = require("dotenv").config();
 const path = require("path");
 
